@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7d15c69a","path":"/docs/games/ck3/test.html","title":"test","lang":"zh-CN","frontmatter":{"title":"test","date":"2023/08/25"},"headers":[],"git":{"createdTime":1692905830000,"updatedTime":1692905830000,"contributors":[{"name":"土库曼酋长","email":"zmzcode@126.com","commits":1}]},"filePathRelative":"docs/games/ck3/test.md"}');export{t as data};
